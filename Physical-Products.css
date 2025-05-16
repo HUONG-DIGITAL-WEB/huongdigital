@@ -273,7 +273,7 @@
 
 .u-section-2 .u-text-1 {
   font-size: 3rem;
-  margin: 0 1px;
+  margin: 29px 1px 0;
 }
 
 .u-section-2 .u-text-2 {
@@ -288,7 +288,7 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   background-image: none;
-  margin: 30px auto 0 1px;
+  margin: 47px auto 0 28px;
   padding: 14px 46px 14px 45px;
 }
 
@@ -396,46 +396,51 @@
     font-size: 2.25rem;
   }
 } .u-section-3 {
-  background-image: url("images/thrfd-min.jpg");
+  background-image: url("images/b39325dc88af0c6f809d4a68c48e682b4abfd7856506ead257d38580c5a82495abd8243fd25e2596454bf808a17cbfc2f028331b59cef07a7c8b1a_1280.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 646px;
+  min-height: 680px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
-  margin: 66px auto 66px 0;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .u-section-3 .u-layout-cell-1 {
-  min-height: 467px;
+  min-height: 568px;
 }
 
 .u-section-3 .u-container-layout-1 {
-  padding: 30px 44px;
+  padding: 25px 15px;
 }
 
 .u-section-3 .u-text-1 {
   font-weight: 700;
   font-size: 2.25rem;
-  margin: 0;
+  margin: 5px 29px 0;
 }
 
 .u-section-3 .u-text-2 {
-  margin: 26px 0 0;
+  margin: 26px 29px 0;
 }
 
 .u-section-3 .u-btn-1 {
   border-style: solid;
   font-weight: 700;
   text-transform: uppercase;
-  margin: 26px auto 0 0;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 26px auto -5px 37px;
+  padding: 14px 46px 14px 45px;
 }
 
 .u-section-3 .u-image-1 {
-  background-image: url("images/beautiful-girl-is-engaged-gym_1157-21986.jpg");
-  min-height: 220px;
+  background-image: url("images/7730a3f1d4f99fc7facc8e965eda3314101d1c055dd63d5cc657b3d4d555a24d62a0eddec9cce8cef40dd4fe196313bde99552d8a4c977098f2630_1280.jpg");
+  min-height: 284px;
   background-position: 50% 50%;
 }
 
@@ -446,25 +451,25 @@
 }
 
 .u-section-3 .u-image-3 {
-  background-image: url("images/-min.jpg");
+  background-image: url("https://pixabay.com/get/g0ad3345ce938ee32d85eb77560fc17674d78908b3759a40104ec0cb7dd8a5fa6320fb39054992dd546e2f2e8a43cf5e512c732f791ec3148ccc0f7149f0384e2_1280.jpg");
   min-height: 220px;
   background-position: 50% 50%;
 }
 
 .u-section-3 .u-image-4 {
-  background-image: url("images/-min.jpg");
+  background-image: url("images/91622e8c3734f55e907b977926af285e0a0bead5771614b7260f56a5fb51cd04832fb8439f362f728f4d4329870b368c2c6302281c0832ee519320_1280.jpg");
   min-height: 220px;
   background-position: 50% 50%;
 }
 
 .u-section-3 .u-image-5 {
-  background-image: url("images/efw.jpg");
+  background-image: url("images/11d0f1b6dcec0deb8d963b08c2e69f87925535b019873bfca91b03bf76c36201a06a63d86c3b9b3e20f35f6b7cf40afbba0d90f09223cd7f972e51_1280.jpg");
   min-height: 220px;
   background-position: 50% 50%;
 }
 
 .u-section-3 .u-image-6 {
-  background-image: url("images/group-people-sitting-lotus-position_1170-2886.jpg");
+  background-image: url("images/3bf35693e7c04850401fdc20f74fc8fa46c24a58531b7c892c2fd0dc3e49d510976c4fe15f4c0663e9361b10900a913fab16c3285de4b5a984900d_1280.jpg");
   min-height: 220px;
   background-position: 50% 50%;
 }
@@ -474,17 +479,26 @@
     min-height: 456px;
   }
 
-  .u-section-3 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 468px;
   }
 
-  .u-section-3 .u-layout-cell-1 {
-    min-height: 385px;
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-left: 0;
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 181px;
+    min-height: 234px;
   }
 
   .u-section-3 .u-image-2 {
@@ -517,13 +531,8 @@
     min-height: 100px;
   }
 
-  .u-section-3 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
   .u-section-3 .u-image-1 {
-    min-height: 734px;
+    min-height: 949px;
   }
 
   .u-section-3 .u-image-2 {
@@ -562,7 +571,7 @@
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 551px;
+    min-height: 712px;
   }
 
   .u-section-3 .u-image-2 {
@@ -596,7 +605,7 @@
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 347px;
+    min-height: 448px;
   }
 
   .u-section-3 .u-image-2 {
